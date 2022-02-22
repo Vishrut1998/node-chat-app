@@ -20,6 +20,7 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+
 h1 {
     margin-bottom: 16px;
 }
@@ -47,6 +48,7 @@ button {
     transition: background .3s ease;
 }
 
+
 button:hover {
     background: #6b47b8;
 }
@@ -59,6 +61,7 @@ button:disabled {
 /* Join Page Styles */
 
 .centered-form {
+    
     background: #333744;
     width: 100vw;
     height: 100vh;   
@@ -120,7 +123,7 @@ button:disabled {
 
 .message__name {
     font-weight: 600;
-    font-size: 14px;
+    font-size: 16px;
     margin-right: 8px;
 }
 
@@ -179,5 +182,6 @@ button:disabled {
 .users {
     list-style-type: none;
     font-weight: 300;
-    padding: 12px 24px 0 24px;
+    padding: 12px 30px 0 40px;
+    
 }
