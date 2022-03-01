@@ -8,12 +8,34 @@ body{
 #chaticon{
     
     height: 0px;
+    margin-left: 100px;
     background: transparent;
     padding-bottom: 0px;
     padding-right: 350px;
     padding-left: 15px;
     padding-top: 0px;
 }
+#locationgif{
+    height: 0px;
+    margin-left: 1250px;
+    padding-bottom: 0px;
+    padding-right: 350px;
+    padding-left: 15px;
+    padding-top: 0px;
+}
+
+#nodding1{
+    position: fixed;
+    
+    height: 0px;
+    margin-top: 550px;
+    margin-left: 290px;
+    padding-right: 250px;
+    padding-left: 15px;
+    
+    
+}
+
 #leave a{
     cursor: pointer;
     border: none;
